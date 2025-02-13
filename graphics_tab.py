@@ -11,6 +11,8 @@ import matplotlib.pyplot as plt
 import random
 import csv
 
+# version 3.0
+
 # -----------------------------------------------------------------Graphs colors---------------------------------------------------------------
 
 PLOT_LINE_COLORS = ['deepskyblue', 'lime', 'magenta']
