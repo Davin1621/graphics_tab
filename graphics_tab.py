@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 import random
 import csv
 
-# version 3.0
+# version 4.0
 
 # -----------------------------------------------------------------Graphs colors---------------------------------------------------------------
 
